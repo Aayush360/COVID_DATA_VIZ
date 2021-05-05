@@ -1,0 +1,74 @@
+S.N,Urgency,Type,Name,Address,No. Required
+1,Urgent,Normal,Aahan Pal,Pokhara,1
+2,Urgent,ICU,hom bahadur,kathmandu,1
+3,Urgent,ICU,Hridaya Man Nakarmi,"Aadeshwor, Sitapaila",1
+4,Urgent,ICU,Narayan upreti,Sinamangal,1
+5,Urgent,Normal,Laxmi Devkota,Gondagu,1
+6,Moderate,ICU,Basu Acharya,"Kadaghari, Birendrachwok, Kathmandu",1
+7,Moderate,Unspecified,Laxmi puri,Bhaktapur,1
+8,Urgent,ICU,Shila Devi Guruy,Chabahil Kathmandu,1
+9,Moderate,Normal,Prem Chandra Jha,"Lokanthali, Bhaktapur",1
+10,Moderate,Isolation,Tulsi Suwal,Byasi,1
+11,Moderate,Normal,Shankar phuyal,Tilganga,1
+12,Urgent,ICU,Sita Karki,Bhaktapur Hospital,1
+13,Urgent,Normal,Ramesh Acharya,Tinkune,1
+14,Not Urgent,Normal,Dil Maya Pathak,"Balkot Chowk, Bhaktapur",1
+15,Not Urgent,Unspecified,Tulsa Pathak,"Balkot Chowk, Bhaktapur",1
+16,Not Urgent,Unspecified,D. R. Pathak,"Balkot Chowk, Bhaktapur",1
+17,Urgent,ICU,vosher lama,Balaju,1
+18,Urgent,ICU,LAXMAN RIJAL,MULPANI,1
+19,Urgent,ICU,Tara P  Ghimire,kathmandu,1
+20,Moderate,ICU,Chitra prakash maskey,Baneshwor,1
+21,Urgent,Ventilator,Prakriti Shrestha,Saugal lalitpur,1
+22,Urgent,Normal,Jamuna Niroula,ekantakuna Lalitupr,1
+23,Urgent,Normal,Rajendra panthi,lokanthali,1
+24,Urgent,ICU,Ram Ekwal Shah,Hattiban,1
+25,Urgent,ICU,Ganga Devi Shrestha,Ratopul,1
+26,Urgent,ICU,Purna Devi Shrestha,Kamalpokhari,1
+27,Urgent,ICU,Laxman Prasad Gyawali,Lokanthali,1
+28,Urgent,Unspecified,Bil Prasad Shrestha,Nuwakot,1
+29,Urgent,ICU,Prakash Bhandari,bhaktapur,1
+30,Urgent,Ventilator,Krishna Rijal,Alka Hospital,1
+31,Urgent,ICU,raj mandal,maharajgunj,1
+32,Urgent,Normal,KhemRaj Poudel,Butwal,1
+33,Not Urgent,Unspecified,Nikita Pun,Machhegaun,1
+34,Urgent,Ventilator,Chanda Laxmi joshi,kathmandu,1
+35,Urgent,Normal,bidek shrestha,kathmandu,1
+36,Not Urgent,,Karuna khadka,Civil hospital,1
+37,Moderate,Normal,Kamal uprety,Bhaktapur,1
+38,Urgent,Normal,Bimal basnet,Thulobharyang,1
+39,Urgent,ICU,Gurcharan Kaur,Kalanki,1
+40,Urgent,ICU,babu  kaji khadka,Kalanki,1
+41,Urgent,ICU,junkiri shrestha,Hattigaunda,1
+42,Urgent,ICU,Dipesh Adhikari,patan,1
+43,Urgent,ICU,Kiran Acharya,Balkumari,1
+44,Moderate,Ventilator,Dipesh Regmi,Budhanilkantha,1
+45,Urgent,ICU,Mukesh Adhikari,"Lagenkhel, Lalitpur",1
+46,Moderate,Normal,Mishra Thapa,Bhaktapur,1
+47,Urgent,ICU,Chandeshwori Ranjitkar,"Sanepa, Lalitpur",1
+48,Urgent,ICU,Shajan sunwar,patan,1
+49,Urgent,Normal,Nishla Shakya (Raj Kumar Shakya),Lagankhel,1
+50,Urgent,Normal,Suresh Jaiswal,Kalanki,1
+51,Urgent,ICU,Surya Narayan Sah,Kathmandu,1
+52,Urgent,Normal,Lalit Narayan Shrestha,Teaching Hospital Emergency,1
+53,Urgent,ICU,YOurina,Bir hospital,1
+54,Not Urgent,Normal,Hima pandey,Kathmandu,1
+55,Urgent,Ventilator,Tara prasad Ghimire,Teaching Hospital,1
+56,Urgent,ICU,Renuka Mahatara,Dhangadhi; Kailali,1
+57,Urgent,Normal,Shiva prasad Niroula,Italian bakery sarswatinagar,1
+58,Urgent,Ventilator,tilak ram pun,dang,6
+59,Urgent,Normal,Naina Kumari Niroula,Italian bakery sarswatinagar,1
+60,Not Urgent,Normal,Shivani Shrestha,Kalanki,1
+61,Urgent,ICU,Vishal,Pepsicola,1
+62,Urgent,ICU,Bishnu Prasad Bhandari,Bhairawa,1
+63,Urgent,ICU,Anil Dotel,Gaushala,1
+64,Urgent,ICU,Parbati Guni,Basundhara,1
+65,Urgent,ICU,Durga devi bajagain,Bhaktapur,1
+66,Urgent,ICU,Binda Timalsina,Jorpati,1
+67,Urgent,Normal,​Bidya budathoki,Kirtipur,1
+68,Urgent,Ventilator,Laxmi Narayanman Duwal,Bhaktapur,1
+69,Urgent,ICU,Anil Bansal,Kuleshwor,2
+70,Moderate,ICU,Sanu Raja Shakya,Dallu Awas,1
+71,Urgent,ICU,krishna bahadur Ghalan,kathmandu,1
+72,Urgent,ICU,Narayan Maity,Nidaan hospital,1
+73,Urgent,ICU,Meena Gaya,bhaktapur,1
